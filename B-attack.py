@@ -30,7 +30,7 @@ def logo():
  \n\033[0m\033[1m
 \t \033[33m[-] \033[0mPlatform : \033[33mAndroid Termux
 \t \033[1m\033[33m[-] \033[0mName     : \033[33mBull Attack
-\t \033[1m\033[33m[-] \033[0mSite     : \033[33mwww.bhai4you.net
+\t \033[1m\033[33m[-] \033[0mSite     : \033[33mwww.trickcyber.com
 \t \033[1m\033[33m[-] \033[0mCoded by :\033[1m \033[33m[  \033[32mParixit \033[33m ]
 \t \033[1m\033[33m[-] \033[0mSec.Code : \033[33m8h4i\033[0m
   """)
